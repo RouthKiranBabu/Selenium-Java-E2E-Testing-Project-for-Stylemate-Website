@@ -1,7 +1,7 @@
-# Things to Do: 
+# Aim of the Project: 
 👉 [Document](https://github.com/RouthKiranBabu/Selenium-Java-E2E-Testing-Project-for-Stylemate-Website/blob/part_1/Given%20Selenium%20Java%20Project%20Instructions%20for%20StylemateTesting%20Website.pdf)
 
-# Things Required:
+# Requirements:
  - Maven Project
    -  Features(Folder of mavenProject) -> [CreateAccount.feature](https://github.com/RouthKiranBabu/Selenium-Java-E2E-Testing-Project-for-Stylemate-Website/blob/part_1/mavenProject/Features/CreateAccount.feature)
    -  pageObjects(Package of src/test/java) -> [Register.java](https://github.com/RouthKiranBabu/Selenium-Java-E2E-Testing-Project-for-Stylemate-Website/blob/part_1/mavenProject/src/test/java/pageObjects/Register.java)
