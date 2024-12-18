@@ -84,10 +84,22 @@ Write -> in -> TestRun.java
 
  - refresh the project -> In the target Folder -> Open the htmlreport.html
 ->  Open with System Editor
-
+   
  - In the Login.feature -> add the Scenario Outline and examples
 in the Testrun.java -> make dryRun = true -> run the TestRun.java -> Junit Test
 watch the output
 
  - In the Login.feature -> make dryRun = false -> run the TestRun.java -> Junit Test
 watch the output
+
+# Theory
+| Name | Definition |
+| :--: | :--- |
+|Selenium|Selenium is a popular open-source automation testing framework for web applications. It supports multiple programming languages (e.g., Java, Python) and browsers. Selenium provides tools like WebDriver for browser automation and Grid for parallel testing, enabling efficient and scalable test automation.|
+|Cucumber|Cucumber is a Behavior-Driven Development (BDD) tool that allows writing tests in plain English (Gherkin). It bridges the gap between technical teams and stakeholders by enabling collaboration through human-readable test scenarios that are executable, promoting better communication and understanding.|
+|Maven Project|Maven is a project management and build automation tool for Java-based projects. It simplifies dependency management, builds, and project structure using a standardized POM (Project Object Model) file. Maven enables easy integration with testing frameworks and continuous integration tools.|
+|Eclipse IDE|Eclipse is a widely used, free Integrated Development Environment (IDE) for Java and other languages. It offers features like debugging, code refactoring, plugins, and a user-friendly interface, making it an essential tool for software development and testing.|
+|Jenkins CI/CD|Jenkins is an open-source automation server used for Continuous Integration and Continuous Delivery (CI/CD). It automates code building, testing, and deployment processes, enabling teams to deliver software faster and with higher quality through its robust plugin ecosystem.|
+
+# Output Representation
+<img alt="Awesome GitHub Profile Readme" src="https://github.com/RouthKiranBabu/Selenium-Java-E2E-Testing-Project-for-Stylemate-Website/blob/part_end/outputRepresentation.gif"> </img>
