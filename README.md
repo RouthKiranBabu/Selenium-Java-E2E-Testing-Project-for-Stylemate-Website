@@ -14,6 +14,8 @@
  - [Test Cases and Scenarios](https://github.com/RouthKiranBabu/Selenium-Java-E2E-Testing-Project-for-Stylemate-Website/blob/part_1/Test%20Cases%20and%20Scenarios.xlsx)
  - [Test Plan](https://github.com/RouthKiranBabu/Selenium-Java-E2E-Testing-Project-for-Stylemate-Website/blob/part_1/Test%20plan%20on%20StyleMate%20e-commerce%20platform.pdf)
  - [Flow Chart/Mind Map](https://github.com/RouthKiranBabu/Selenium-Java-E2E-Testing-Project-for-Stylemate-Website/tree/part_1#flowchart-folder-structure)
+ - [Bug Reports](https://github.com/RouthKiranBabu/Selenium-Java-E2E-Testing-Project-for-Stylemate-Website/blob/part_end/Bug%20Report%20for%20StyleMate.pdf)
+ - [Summary Report](https://github.com/RouthKiranBabu/Selenium-Java-E2E-Testing-Project-for-Stylemate-Website/blob/part_end/Summary%20Report%20for%20StyleMate.pdf)
 
 # Procedure
  - Create the maven Project:
