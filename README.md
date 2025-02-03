@@ -1,3 +1,6 @@
+# Ending Certificate
+<img alt="Completion Certificate" src="./Certificate.jpg"> </img>
+
 # Aim of the Project: 
 👉 [Document](https://github.com/RouthKiranBabu/Selenium-Java-E2E-Testing-Project-for-Stylemate-Website/blob/part_1/Given%20Selenium%20Java%20Project%20Instructions%20for%20StylemateTesting%20Website.pdf)
 
